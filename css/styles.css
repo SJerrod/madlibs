@@ -1,3 +1,13 @@
 #story {
   display: none;
-} 
+  background-color:
+}
+
+body {
+  background-image: url(../img/cubes.jpg);
+  color: aliceblue;
+}
+
+.btn {
+  color: black;
+}
